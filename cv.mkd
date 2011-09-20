@@ -1,9 +1,107 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Entretenimento
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+André Luís Toledo
+
+Brasileiro – Casado – Sem filhos - 28 anos (03/11/1982)
+Avenida Campinas 1406, Edifício Guarujá Apto. 43
+Vl. Cidade Jardim – Limeira-SP CEP:13480-290
+Fone: (19)8115-4255 / (19)3011-5343
+e-mail: toledo.andre@gmail.com
+website: andretoledo.com.br
+
+OBJETIVOS PROFISSIONAIS
+
+Programação e desenvolvimento web, gestão de projetos para web.
+
+ESCOLARIDADE:
+
+  MBA em Gestão de Projetos
+	Faculdades Anhanguera Educacional – FAC 
+	Limeira-SP
+	Desde Abril de 2011
+
+  Pós Graduação Desenvolvimento de Sistemas Web
+	Faculdades Anhanguera Educacional – FAC 
+	Limeira-SP
+	Desde Abril de 2010
+ 
+	Ciência da Computação
+	Faculdades Anhanguera Educacional – FAC 
+	Limeira-SP
+	De Janeiro de 2008 à dezembro de 2009
+
+	Ciência da Computação
+	Escola de engenharia de Piracicaba – EEP/FUMEP
+	Piracicaba-SP
+	De 2003 à 2007 (transferido)
+
+	Técnico em Informática
+	Colégio Técnico de Limeira - Cotil/UNICAMP
+	Limeira-SP
+	De 1999 à 2002
+	
+Idiomas:
+
+	Inglês – Módulo avançado (Conversação)
+	Idéia Centro de Línguas
+	Limeira-SP
+	De Julho de 1995 à abril de 2002
+
+Cursos Complementares
+
+	Extensão: Programação Oracle PL/SQL
+	Faculdades Anhanguera Educacional – FAC 
+	Limeira-SP
+	Setembro 2010 – 32 horas/aula
+	Conteúdo: Criação e manutenção de tabelas, Inserção e recuperação de dados, Stored Procedures, Triggers.	
+
+	Extensão: Programação PHP
+	Faculdades Anhanguera Educacional – FAC 
+	Limeira-SP
+	Novembro 2009 – 32 horas/aula
+	Conteúdo: Conceitos da linguagem, conexão com banco MySQL, Segurança.
+
+	Extensão: Linux Avançado
+	Faculdades Anhanguera Educacional – FAC 
+	Limeira-SP
+	26 de setembro 2009 – 8 horas/aula
+	Conteúdo: Instalação, configuração, compilação de programa, compilação de kernel.
+	
+	TCP/IP
+	GNU Solutions SA
+	Campinas-SP
+	29 de outubro de 2004 – 9 horas/aula
+	Conteúdo: Endereçamento, roteamento, Sub-redes, VPN.
+
+	Hardware – Montagem e  Manutenção (Curso de extensão)
+	ISCA Faculdades
+	Limeira-SP
+	De 09 de outubro de 1999 à 04 de Dezembro de 1999 (Sábados)
+
+EXPERIÊNCIA PROFISSIONAL:	
+
+	Mastra Escapamentos e Catalisadores – Limeira-SP
+	Analista Programador AdvPl/Microsiga
+	Desde 01 de Agosto de 2008
+	Atividades desenvolvidas: Analise e programação de personalizações para sistema ERP Totvs Protheus em linguagem ADVPL, instalação e manutenção em banco de dados Oracle 10g, instalação e manutenção de servidor Windows 2003 Server.
+
+  Bluepex Security Solutions – Limeira-SP
+	Analista Suporte Técnico,  Suporte Técnico, Programador Trainee
+	De 01 de Abril de 2005 à 19 de Maio de 2008
+	Atividades desenvolvidas: Suporte técnico telefônico e assistência técnica em servidores Linux com SAMBA, SendMail/QMail/SPAMAssassin (servidor de e-mails), Apache (servidor Web), Firewall IPTables, VPN IPSec, Web Proxy Squid.
+	
+	Dutra Correntes Ltda - Limeira-SP
+	Administrador de Sistemas	
+	De 14 de Junho de 2004 à 10 de Março de 2005
+	Atividades desenvolvidas: Manutenção de hardware, instalação e configuração de desktop Windows, instalação e configuração de servidor Linux, manutenção de redes, suporte técnico.
+	
+	Dimensional Equipamentos Elétricos Ltda - Limeira-SP
+  Auxiliar Laboratório Eletroeletrônica - Estagiário
+  De 15 de Abril de 2003  à 10 de Junho de 2004
+	Atividades desenvolvidas: Manutenção eletrônica de equipamentos para automação industrial, montagem de painéis elétricos.
